@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Geogina's Quincencera</title>
-{{ assets.outputCss() }}
+<?= $this->assets->outputCss() ?>
 </head>
 
 	<body>
