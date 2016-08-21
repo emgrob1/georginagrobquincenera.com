@@ -1,3 +1,0 @@
-<p>
-RSVP Page
-</p>

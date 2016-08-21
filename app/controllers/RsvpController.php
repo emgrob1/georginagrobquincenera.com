@@ -1,6 +1,6 @@
 <?php
 
-class MystoryController extends \Phalcon\Mvc\Controller
+class RsvpController extends \Phalcon\Mvc\Controller
 {
 
     public function indexAction()

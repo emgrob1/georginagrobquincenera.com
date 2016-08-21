@@ -8,11 +8,10 @@ Georgina Grob Quincenera
 </div>
 <?php echo $this->partial('partials/menu'); ?>
 </head>
-
 	<body>
 <div class="content">
 <p>
-Blog Page
+Gift Registry Page
 </p>
 </div>
 </body>

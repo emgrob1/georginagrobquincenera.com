@@ -1,3 +1,0 @@
-<p>
-Directions Page
-</p>

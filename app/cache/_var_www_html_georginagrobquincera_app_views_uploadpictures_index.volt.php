@@ -12,7 +12,7 @@ Georgina Grob Quincenera
 	<body>
 <div class="content">
 <p>
-Blog Page
+Upload Pictures Page
 </p>
 </div>
 </body>
