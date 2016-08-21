@@ -1,4 +1,33 @@
 body
 {
-	background-color:green;
+	background-color:#b3d9ff;
+}
+
+.nav_menu
+{
+	background-color:#cc99ff;
+	width:900px;
+	height:55px;
+}
+
+#menu_header
+{
+	list-style: none;
+}
+
+li
+{
+	float:left;
+}
+
+li a
+
+{
+	padding:12px;
+	text-decoration: none;	
+}
+
+div .content
+{
+	float:none;
 }

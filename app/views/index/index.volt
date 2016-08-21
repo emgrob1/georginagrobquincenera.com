@@ -3,11 +3,15 @@
 <head>
 <title>Geogina's Quincencera</title>
 {{ assets.outputCss() }}
+<div class="content">
+Georgina Grob Quincenera
+</div>
+{{ partial('partials/menu') }}
 </head>
 
 	<body>
-
-Georgina Grob Quincenera
-
+<div class="content">
+Georgina Grob Quincenera stuff
+</div>
 </body>
 </html>

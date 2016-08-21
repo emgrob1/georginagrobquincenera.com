@@ -1,0 +1,3 @@
+<p>
+Blog Page
+</p>

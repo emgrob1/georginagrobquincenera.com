@@ -1,7 +1,17 @@
-<div class="page-header">
-    <h1>Congratulations!</h1>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Geogina's Quincencera</title>
+<?php echo $this->assets->outputCss(); ?>
+<div class="content">
+Georgina Grob Quincenera
 </div>
+<?php echo $this->partial('partials/menu'); ?>
+</head>
 
-<p>You're now flying with Phalcon. Great things are about to happen!</p>
-
-<p>This page is located at <code>views/index/index.volt</code></p>
+	<body>
+<div class="content">
+Georgina Grob Quincenera stuff
+</div>
+</body>
+</html>
